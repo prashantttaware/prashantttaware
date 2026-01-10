@@ -1,10 +1,9 @@
 ## 🚀 About Me
-- 🔥 I build modern, responsive web interfaces using **HTML, CSS, JS & Bootstrap**
+- 🔥 I build modern, responsive web interfaces using **HTML, CSS, JS & GSAP and other animated Libraries.**
 - ⚙️ I work with **APIs** using tools like **Postman** and **Hoppscotch**
-- 💾 Strong knowledge of **SQL** and database concepts
+- 💾 Basic knowledge of **SQL** and database concepts
 - ☕ Currently improving my **Java & DSA** skills
 - 🐧 Daily user of **Git & GitHub** for version control
-- 🌐 Also learning **PHP** for backend development
 - 🎯 Goal: Become a full-stack MERN developer + DSA expert  
 
 ---
@@ -25,7 +24,6 @@
 <div>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
