@@ -3,6 +3,7 @@
 [![prashant-aware](https://img.shields.io/badge/-PrashantttAware22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-aware-5a7a96317/)](https://www.linkedin.com/in/prashant-aware-5a7a96317/)
 [![PrashantttAware22](https://img.shields.io/github/followers/PrashantttAware22.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PrashantttAware22?tab=followers)
 
+```js
 const information = {
     name: "Prashant Aware",
     pronouns: "he/him",
@@ -16,6 +17,7 @@ const information = {
         tools: ["Git", "GitHub", "Postman", "Docker", "Kubernetes", "Figma", "AWS"],
     },
 };
+```
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrashantttAware22&date_format=M%20j%5B%2C%20Y%5D&theme=github_dark&hide_border=true)](https://github.com/PrashantttAware22)
 
