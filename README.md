@@ -1,4 +1,4 @@
-[![PrashantttAware22](https://komarev.com/ghpvc/?username=PrashantttAware22&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PrashantttAware22)
+[![PrashantttAware22](https://komarev.com/ghpvc/?username=prashantttaware&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PrashantttAware22)
 [![PrashantAw66307](https://img.shields.io/twitter/follow/PrashantAw66307?logo=twitter&style=social)](https://twitter.com/PrashantAw66307)
 [![prashant-aware](https://img.shields.io/badge/-PrashantttAware22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-aware-5a7a96317/)](https://www.linkedin.com/in/prashant-aware-5a7a96317/)
 [![PrashantttAware22](https://img.shields.io/github/followers/PrashantttAware22.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PrashantttAware22?tab=followers)
