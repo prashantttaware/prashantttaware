@@ -5,7 +5,7 @@
 
 ```js
 const information = {
-    name: "Prashant Aware",
+    name: "Prashant Dipak Aware",
     pronouns: "he/him",
     location: "Chhatrapati Sambhajinagar, Maharashtra, India",
     skills: {
