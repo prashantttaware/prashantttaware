@@ -3,7 +3,7 @@
 [![prashant-aware](https://img.shields.io/badge/-PrashantttAware22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-aware-5a7a96317/)](https://www.linkedin.com/in/prashant-aware-5a7a96317/)
 [![PrashantttAware22](https://img.shields.io/github/followers/PrashantttAware22.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PrashantttAware22?tab=followers)
 
-```js
+
 const information = {
     name: "Prashant Dipak Aware",
     pronouns: "he/him",
@@ -14,10 +14,10 @@ const information = {
         frameworks: ["Next.js", "Tailwind CSS", "Bootstrap", "Express.js", "Node.js", "Django"],
         runtimes: ["Node.js"],
         databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "SQLite", "Redis"],
-        tools: ["Git", "GitHub", "Postman", "Docker", "Kubernetes", "Figma", "AWS"],
+        tools: ["Git", "GitHub", "GitLab", "Postman", "Docker", "Kubernetes", "Figma", "AWS"],
     },
 };
-```
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrashantttAware22&date_format=M%20j%5B%2C%20Y%5D&theme=github_dark&hide_border=true)](https://github.com/PrashantttAware22)
 
@@ -53,6 +53,7 @@ const information = {
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+<a href="https://about.gitlab.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 
 ## Connect with me
